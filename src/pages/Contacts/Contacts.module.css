@@ -1,0 +1,19 @@
+.phonebook {
+  padding: 20px;
+  /* display: flex; */
+  align-items: flex-start;
+}
+
+.title {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 32px;
+  color: #4e2914;
+  text-shadow: 2px 2px 2px #ffcbad;
+}
+
+.contactList {
+  width: max-content;
+  margin-left: 40px;
+  text-align: center;
+}
